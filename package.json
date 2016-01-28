@@ -1,0 +1,27 @@
+{
+  "name": "gitpie-util",
+  "version": "0.1.0",
+  "description": "Useful things to GitPie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-pie/gitpie-util.git"
+  },
+  "keywords": [
+    "gitpie",
+    "util"
+  ],
+  "author": "Matheus Paiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-pie/gitpie-util/issues"
+  },
+  "homepage": "https://github.com/git-pie/gitpie-util#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "is-root": "^1.0.0"
+  }
+}
